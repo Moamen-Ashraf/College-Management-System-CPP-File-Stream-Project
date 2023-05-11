@@ -1,0 +1,3 @@
+C:/Users/Momen Ashraf/Downloads/College_Managment_Sytem/cmake-build-debug/CMakeFiles/College_Managment_Sytem.dir
+C:/Users/Momen Ashraf/Downloads/College_Managment_Sytem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Momen Ashraf/Downloads/College_Managment_Sytem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
